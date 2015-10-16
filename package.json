@@ -1,0 +1,22 @@
+{
+  "name": "nativescript-raygun",
+  "version": "1.0.0",
+  "description": "A NativeScript plugin for Raygun error handling.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pocketsmith/nativescript-raygun.git"
+  },
+  "main": "raygun.js",
+  "author": "PocketSmith",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "lodash": "^3.0.0"
+  },
+  "nativescript": {
+    "platforms": {
+      "ios": "1.4.0",
+      "android": "1.4.0"
+    }
+  }
+}
